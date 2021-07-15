@@ -25,7 +25,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['0.0.0.0'
     'the-yogify.herokuapp.com',
-    '127.0.0.1']
+    '127.0.0.1',
+    'pjapp93.herokuapp.com']
 
 
 # Application definition
